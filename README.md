@@ -106,7 +106,7 @@
 <div class="container">
 
   <div class="card">
-    <img src="https://i.imgur.com/5ZQz0Xq.png" alt="60 UC">
+    <img src="https://yt3.googleusercontent.com/OBzqbq4Djx03Ics-1R552VIQytgEqKCKdynObXurN5oxZMIwKY1Tm1UyZnVI1GeTSqoqEBSXx9g=s900-c-k-c0x00ffffff-no-rj" alt="60 UC">
     <h2>60 UC</h2>
     <p>PUBG Mobile — kiçik UC paketi</p>
     <div class="price">~0.95 USD</div>
